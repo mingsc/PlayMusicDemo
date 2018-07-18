@@ -14,6 +14,7 @@
 		1F5790A920FF859100C6512F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1F5790A720FF859100C6512F /* LaunchScreen.storyboard */; };
 		1F5790B420FF859100C6512F /* PlayMusicDemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F5790B320FF859100C6512F /* PlayMusicDemoTests.swift */; };
 		1F5790BF20FF859100C6512F /* PlayMusicDemoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F5790BE20FF859100C6512F /* PlayMusicDemoUITests.swift */; };
+		1F5790CD20FF86D900C6512F /* StarSky.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F5790CC20FF86D900C6512F /* StarSky.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		1F5790BA20FF859100C6512F /* PlayMusicDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PlayMusicDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1F5790BE20FF859100C6512F /* PlayMusicDemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayMusicDemoUITests.swift; sourceTree = "<group>"; };
 		1F5790C020FF859100C6512F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1F5790CC20FF86D900C6512F /* StarSky.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = StarSky.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		1F57909D20FF859000C6512F /* PlayMusicDemo */ = {
 			isa = PBXGroup;
 			children = (
+				1F5790CC20FF86D900C6512F /* StarSky.mp3 */,
 				1F57909E20FF859000C6512F /* AppDelegate.swift */,
 				1F5790A020FF859000C6512F /* ViewController.swift */,
 				1F5790A220FF859000C6512F /* Main.storyboard */,
@@ -231,6 +234,7 @@
 			files = (
 				1F5790A920FF859100C6512F /* LaunchScreen.storyboard in Resources */,
 				1F5790A620FF859100C6512F /* Assets.xcassets in Resources */,
+				1F5790CD20FF86D900C6512F /* StarSky.mp3 in Resources */,
 				1F5790A420FF859000C6512F /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
